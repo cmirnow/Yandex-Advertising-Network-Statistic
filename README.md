@@ -1,6 +1,6 @@
 ## Доход Рекламной Сети Яндекса за любой период - в командной строке Ruby
 
-[![Yandex Advertising Network Statistic](https://github.com/cmirnow/Yandex-Advertising-Network-Statistic/blob/master/img/rsya.jpg)]
+[![Yandex Advertising Network Statistic](https://github.com/cmirnow/Yandex-Advertising-Network-Statistic/blob/master/img/rsya.jpg)](https://masterpro.ws/api-yandex-metrica-advertising-network-statistic "Yandex Advertising Network Statistic")
 
 Неоднократно приходилось слышать жалобы на чрезвычайно медленный веб-интерфейс Яндекс.Метрика; все то же самое и о Рекламной Сети Яндекса, причем без разницы, интегрированы отчеты РСЯ в Метрику, или же нет. Моя рекомендация: господа-сеошники и/или монетизаторы, осваивайте консоль, веб-аналитика от российской компании Яндекс реально будет у вас летать...
 
