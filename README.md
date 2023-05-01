@@ -8,6 +8,15 @@
 gem install dotenv typhoeus json terminal-table tty-prompt date
 git clone https://github.com/cmirnow/Yandex-Advertising-Network-Statistic.git
 cd Yandex-Advertising-Network-Statistic
+```
+
+.env
+```bash
+export AUTH_TOKEN_METRIKA = '******************************'
+export IDS_METRIKA = '***********'
+```
+
+```bash
 ruby bin/start.rb
 ```
 

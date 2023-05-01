@@ -21,7 +21,7 @@ class YandexMetrika
       params: params,
       headers: {
         Accept: 'application/x-yametrika+json',
-        Authorization: 'OAuth' + ENV['AUTH_TOKEN_METRIKA']
+        Authorization: "OAuth#{ENV['AUTH_TOKEN_METRIKA']}"
       }
     )
     JSON.parse(response.body)
