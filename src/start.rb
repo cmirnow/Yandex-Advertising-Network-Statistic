@@ -6,7 +6,7 @@ require 'json'
 require 'terminal-table'
 require 'tty-prompt'
 require 'date'
-require_relative '../lib/analytics'
+require_relative './analytics'
 
 puts 'Enter time period'
 
