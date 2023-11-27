@@ -17,7 +17,7 @@ export IDS_METRIKA = '***********'
 ```
 
 ```bash
-ruby bin/start.rb
+ruby src/start.rb
 ```
 
 :bangbang: | В скобках: может не работать в среде Windows, подробнее см. [этот материал](https://masterpro.ws/api-yandex-metrica-advertising-network-statistic) и комментарии к нему. Linux наше все.
